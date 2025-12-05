@@ -1,0 +1,6 @@
+## Interface: 90100
+## Title: MyAddon
+## Author: drvptr
+## Version: 9.1.0.1
+
+MyAddon.lua
